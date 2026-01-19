@@ -4,6 +4,7 @@
 
 Fixed::Fixed()
 {
+	this->value = 0;
 }
 
 Fixed::Fixed(const int value)
